@@ -249,6 +249,7 @@ return array(
     '%d year' => '%d umwaka',
     '%d years' => '%d imyaka',
     'English' => 'Icyongereza',
+    'Kinyarwanda' => 'Ikinyarwanda',
     'German' => 'Ikidage',
     'Italian' => 'Igitaliyani',
     'Attachment' => 'Umugereka',
